@@ -26,6 +26,11 @@ align-items: flex-end;
 margin-top: 5em;
 }
 
+.parent-flex {
+    background-color: green;
+    padding: 250px;
+    margin: ;
+}
 .child-1 {
     background-color: yellow;
 }
