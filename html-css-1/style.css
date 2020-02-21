@@ -1,0 +1,31 @@
+
+header {
+    height: 50px;
+    background-color: gray;
+    display: flex;
+    align-items: center;
+    box-sizing: border-box;
+    padding-left: 10px;
+    margin-bottom: 15px;
+    
+}
+.header2 {
+    background-color:gray;
+    display: flex;
+    padding-left: 1700px;
+    margin-bottom: 15px;
+    flex-wrap: wrap;
+    
+}
+Intro-phrase {
+background-color: green;
+height: 25px;
+display: flex;
+box-sizing: border-box;
+align-items: flex-end;
+margin-top: 5em;
+}
+
+.child-1 {
+    background-color: yellow;
+}
